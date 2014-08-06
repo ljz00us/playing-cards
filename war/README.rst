@@ -1,0 +1,1 @@
+[ ![Codeship Status for ljz00us/playing-cards](https://www.codeship.io/projects/b604ba90-ffd7-0131-873b-266d434a3ead/status)](https://www.codeship.io/projects/29811)
